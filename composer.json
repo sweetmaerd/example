@@ -1,0 +1,14 @@
+{
+    "name": "sweetmaerd/example",
+    "description": "description",
+    "type": "project",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "Ivan Velento",
+            "email": "sweetmaerd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
